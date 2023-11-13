@@ -8,6 +8,8 @@ My "SBI Site Downloader" (sbisitedownloader.vbs) is a relatively simple VB Scrip
 
 NOTE: It ONLY downloads the web files (HTML), not special files, support files, images, etc. It is really intended to salvage your core textual content, not all layout/etc features. That's something you'll need to work out on the WordPress side.
 
+ALSO NOTE: This is intended for SITE OWNERS to download their own site files. Of course it could be misused, but all it's doing is visiting every page and downloading it, just as any user could do manually.
+
 **My strongest advice: Read this whole document slowly and carefully all the way through at least once before you do anything. Just read without actually doing anything else. Then, when you start this process, do it slowly, one step at a time, reading carefully... If you have built an SBI/SiteSell site following the Action Guide, I know you're up to it.**
 
 This is open source. Download it. Change it. Whatever you want. It's only intended for Windows (sorry Mac/Linux). NO GAURANTEES. USE AT YOUR OWN RISK. But it's very simple code written in VB Script that nearly any programmer should be able to validate.
