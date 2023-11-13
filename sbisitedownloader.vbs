@@ -1,4 +1,4 @@
-strXMLURL = "https://www.acutabove-onlinedating.com/m7SY2pWQ.xml"
+strXMLURL = "https://www.mysite.com/n7SX2pWQ.xml"
 
 Set objHTTP = CreateObject("MSXML2.XMLHTTP")
 Dim objStream
